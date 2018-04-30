@@ -5,3 +5,4 @@ dependencies:
         - keras
         - tensorflow
         - bs4
+        - lxml
