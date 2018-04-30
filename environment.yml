@@ -1,0 +1,7 @@
+dependencies:
+    -pip:
+        - numpy
+        - sklearn
+        - keras
+        - tensorflow
+        - bs4
