@@ -1,5 +1,5 @@
 dependencies:
-    -pip:
+    - pip:
         - numpy
         - sklearn
         - keras
