@@ -118,7 +118,7 @@ pycosat==0.6.2
 pycparser==2.18
 pycurl==7.43.0
 pyflakes==1.5.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygpu==0.7.5
 pylint==1.7.2
 pyodbc==4.0.17
